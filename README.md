@@ -14,7 +14,7 @@ Feito durante o evento exclusivo e gratuito "Jornada do zero a programação", p
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Japanese food" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
