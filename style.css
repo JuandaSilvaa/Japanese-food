@@ -1,3 +1,14 @@
+#bg-image {
+  background-image: url(/assets/background.jpg);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+}
+
 body {
   background-color: black;
   color: white;
@@ -34,17 +45,6 @@ a {
 
 a:hover {
   background-color: #e93a48;
-}
-
-#bg-image {
-  background-image: url(/assets/background.jpg);
-  background-position: center;
-  background-size: contain;
-  background-repeat: no-repeat;
-  opacity: 0.3;
-  position: absolute;
-  inset: 0;
-  z-index: -1;
 }
 
 @media (width < 40rem) {

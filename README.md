@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Japanese food é uma página de pedidos.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://juandasilvaa.github.io/Japanese-food/)
 
 ## 🔖 Layout
 
