@@ -1,7 +1,7 @@
 <h1 align="center"> Japanese food </h1>
 
 <p align="center">
-Feito durante o evento exclusivo e gratuito "Jornada do zero a programação", promovido pela Rocketseat para ensino de tecnologias WEB
+Feito durante o evento exclusivo e gratuito "Jornada do zero a programação", promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
